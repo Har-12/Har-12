@@ -11,5 +11,3 @@
 
 
 📫 Gmail me at harshasthana085@gmail.com.
-
-plat_ios plat_android plat_web plat_flutter plat_cpp plat_unity plat_node plat_java plat_python plat_go
