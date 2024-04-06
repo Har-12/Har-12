@@ -1,3 +1,4 @@
+# 🙋‍♂️ About Me
 > 👋 Hi, I’m @Har-12
 
 
@@ -30,7 +31,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=6)](https://skillicons.dev)
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Har-12&" alt="har-12" />
