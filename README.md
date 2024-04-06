@@ -1,3 +1,5 @@
+![Alt Text](https://github.com/Har-12/github-bot/blob/main/snapedit_1712382090850.jpeg)
+
 # 🙋‍♂️ About Me
 > 👋 Hi, I’m @Har-12
 
