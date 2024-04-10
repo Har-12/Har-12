@@ -17,9 +17,7 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=Har-12&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
+[![](https://visitcount.itsvg.in/api?id=Har-12&label=Profile%20Views&color=9&icon=6&pretty=false)](https://visitcount.itsvg.in)
 # 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) 
 
